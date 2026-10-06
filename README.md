@@ -127,4 +127,4 @@ Authoritative source(s) for **MITRE ATT&CK (Enterprise)**. Always validate contr
 
 This repository is for informational and planning purposes. It is **not** legal, regulatory, audit, or certification advice, and it is **not** a MITRE ATT&CK (Enterprise) attestation. Validate all control references against the current official MITRE ATT&CK (Enterprise) text ([official source](https://attack.mitre.org/)), your environment, and your qualified assessor. Replace any bracketed fields before customer delivery.
 
-*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Mapping).*
+*Part of the Cisco Secure Workload compliance reference-design series. Umbrella index: [CSW-Compliance-Mapping](https://github.com/chandrapati/CSW-Compliance-Reference-Designs).*
